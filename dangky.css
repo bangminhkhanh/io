@@ -1,0 +1,18 @@
+.box-dk{
+    box-shadow: 5px black;
+    width: 300px;
+    border: 3px black;
+}
+form{
+    position: relative;
+    left: 500px;
+}
+.dnhap img{
+    width: 30px;
+}
+body{
+    width: 500px;
+}
+form>b{
+    float: left;
+}
